@@ -4,10 +4,11 @@ Created on Sun Oct 20 20:19:44 2024
 
 @author: ASUS
 """
+import os
 from datetime import datetime
 import calendar
 
-
+os.system("cls")
 nombre = input("Cual es su nombre: \n")
 
 # Solicitar al usuario que ingrese su fecha de nacimiento
