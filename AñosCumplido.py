@@ -9,7 +9,7 @@ from datetime import datetime
 import calendar
 
 os.system("cls")
-nombre = input("Cual es su nombre: \n")
+nombre = input("\nCual es su nombre: \n")
 
 # Solicitar al usuario que ingrese su fecha de nacimiento
 fecha_nacimiento_str = input(f"{nombre} Por favor, seguidamente ingresa tu fecha de nacimiento" \
